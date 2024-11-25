@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **node.js, react.js, spring, ...**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react, node**
 
 - 📫 How to reach me **nguyencongtrung13@gmail.com**
 
